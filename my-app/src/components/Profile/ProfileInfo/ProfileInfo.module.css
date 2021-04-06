@@ -1,0 +1,32 @@
+
+
+.imgProfile img {
+    margin: 350px 0px -100px -260px;
+    max-height:  200px;
+    border-radius: 10px;
+
+}
+
+.descriptionBlock {
+    padding: 10px;
+    font-weight: bold;
+    color: rgb(0, 0, 0);
+    margin: -300px 50px 5px 250px;
+    text-shadow: 5px rgba(0, 0, 0, 0.555);
+    
+}
+
+.myWork{
+    padding: 0px;
+    font-weight: bold;
+    color: rgb(97, 97, 97);
+    margin: -10px 50px 250px 260px;
+    text-shadow: 5px rgba(100, 86, 86, 0.555);   
+}
+.textFor{
+    
+    font-weight: ;
+    color: rgb(0, 0, 0);
+    margin: -245px 50px 240px 260px;
+    text-shadow: 5px rgba(100, 86, 86, 0.555);   
+}

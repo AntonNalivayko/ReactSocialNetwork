@@ -1,0 +1,32 @@
+.item{
+    margin-left: 0px;
+    color: mediumblue;
+
+}
+
+.content {
+    grid-area: c;
+    background-color: rgba(250, 252, 146, 0.541);
+    margin-left: 10px;
+    border-radius: 10px;
+    margin-top: 10px;
+    margin-bottom: 50px;
+    min-height: 400px;
+    box-shadow: 0 1px 5px rgb(14, 13, 13);
+
+}
+
+.item img{
+    width: 50px;
+    border-radius: 30px;
+}
+
+.postBlock {
+    padding: 10px;
+
+
+}
+
+.posts {
+
+}

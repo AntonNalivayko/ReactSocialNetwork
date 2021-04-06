@@ -1,0 +1,39 @@
+.userPhoto {
+    width: 200px;
+    height: 200px;
+    border-radius: 100px;
+    margin-top: 50px;
+    margin-left: 0px;
+    box-shadow: 0 1px 5px;
+    padding: 0px;
+}
+
+.selectedPage {
+    font-weight: bold;
+}
+
+.users{
+    display: list-item;
+    grid-template-columns: 2fr 10fr;
+    background-color: rgba(135, 206, 250, 0.349);
+    border-radius: 5px;
+    margin-top: 50px;
+   
+    box-shadow: 0 1px 5px grey;
+    padding: 20px;
+}
+
+.numberPage {
+    font-weight: bold;
+    font-size: 36;
+    
+
+}
+.userName {
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(0, 0, 0);
+    margin-left: 4px;
+    text-shadow: 5px rgba(0, 0, 0, 0.555);
+    margin-top: 5px;
+}

@@ -1,0 +1,44 @@
+.header{
+    grid-area: h;
+    background-color: rgba(245, 245, 245, 0.267);
+    min-height: 100px;
+    border-radius: 5px;
+    box-shadow: 0 1px 5px grey;
+
+}
+
+.header img{
+    margin-left: 15px;
+    margin-top: -5px;
+    margin-bottom: 50px;
+    width: 150px;
+
+
+}
+
+.textLogo {
+
+    font-weight: bold;
+    color: rgb(0, 0, 0);
+    margin: -130px 0px 0px 150px;
+    text-shadow: 5px rgba(100, 86, 86, 0.555); 
+    font-size: 150%;
+    
+}
+
+.authorLogo {
+    
+    color: rgb(0, 0, 0);
+    margin: -5px 0px 0px 150px;
+    text-shadow: 5px rgba(100, 86, 86, 0.555); 
+
+    
+} 
+
+.loginBlock{
+    float:right;
+}
+
+.loginBlock a {
+    color:black;
+}

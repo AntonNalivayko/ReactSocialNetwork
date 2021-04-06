@@ -1,0 +1,32 @@
+.nav{
+    grid-area: n;
+    background-color: lavender;
+    margin: 50px 20px 500px 0px;
+    border-radius: 10px;
+    text-shadow: black;
+    box-shadow: 0 1px 5px grey;
+    padding: 25px;
+    height: 150px;
+}
+.item a{
+    color: dodgerblue;
+    margin: 500px 10px 10px 30px;
+    text-decoration: none;
+    text-shadow: 5px;
+    font-size: 105%;
+
+ ;
+}
+.item a.activeLink {
+    color: rgb(0, 0, 0);
+    margin-top: 50px;
+}
+
+.imgFrieds {
+    border-radius: 20px;
+    max-width: 30px;
+}
+
+.sideFont {
+    font-size: 16px;
+}

@@ -1,0 +1,35 @@
+.dialogs{
+    display: grid;
+    grid-template-columns: 2fr 10fr;
+    background-color: lightskyblue;
+    border-radius: 5px;
+    margin-top: 50px;
+    margin-left: 0px;
+    box-shadow: 0 1px 5px grey;
+    padding: 20px;
+
+
+}
+
+.dialogsItems {
+    margin-left: ;
+    font-size: 16px; 
+}
+
+
+
+.dialog {
+}
+
+
+.messages {
+    padding: 10px;
+    color: white;
+
+
+}
+
+.Textarea {
+
+    padding: 20px;
+}
